@@ -1,0 +1,46 @@
+Total states
+    Stand
+    Ruku
+    Sizdah
+    Sit
+
+
+4 rakat:
+
+1ST RAKAT
+1.Stand
+2.Ruku
+3.Stand
+4.Sizdah
+5.Sit
+6.Sizdah
+
+2ND RAKAT
+7.Sit(MOMENTARILY) OR Stand
+8.Ruku
+9.Stand
+10.Sizdah
+11.Sit
+12.Sizdah
+
+13.Sit
+
+3RD RAKAT
+14.Stand
+15.Ruku
+16.Stand
+17.Sizdah
+18.Sit
+19.Sizdah
+
+
+4TH RAKAT
+20.Sit(MOMENTARILY) OR Stand
+21.Ruku
+22.Stand
+23.Sizdah
+24.Sit
+25.Sizdah
+26.Sit
+
+end
